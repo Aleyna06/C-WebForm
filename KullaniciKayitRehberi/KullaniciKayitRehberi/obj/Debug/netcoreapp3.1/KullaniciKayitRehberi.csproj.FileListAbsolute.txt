@@ -1,0 +1,15 @@
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\bin\Debug\netcoreapp3.1\KullaniciKayitRehberi.exe
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\bin\Debug\netcoreapp3.1\KullaniciKayitRehberi.deps.json
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\bin\Debug\netcoreapp3.1\KullaniciKayitRehberi.runtimeconfig.json
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\bin\Debug\netcoreapp3.1\KullaniciKayitRehberi.runtimeconfig.dev.json
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\bin\Debug\netcoreapp3.1\KullaniciKayitRehberi.dll
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\bin\Debug\netcoreapp3.1\KullaniciKayitRehberi.pdb
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\netcoreapp3.1\KullaniciKayitRehberi.csprojAssemblyReference.cache
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\netcoreapp3.1\KullaniciKayitRehberi.Form1.resources
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\netcoreapp3.1\KullaniciKayitRehberi.csproj.GenerateResource.cache
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\netcoreapp3.1\KullaniciKayitRehberi.AssemblyInfoInputs.cache
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\netcoreapp3.1\KullaniciKayitRehberi.AssemblyInfo.cs
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\netcoreapp3.1\KullaniciKayitRehberi.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\netcoreapp3.1\KullaniciKayitRehberi.dll
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\netcoreapp3.1\KullaniciKayitRehberi.pdb
+C:\Users\Aleyna\source\repos\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\netcoreapp3.1\KullaniciKayitRehberi.genruntimeconfig.cache

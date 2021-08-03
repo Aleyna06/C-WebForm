@@ -1,0 +1,16 @@
+C:\Users\Aleyna\source\repos\Pizza\Pizza\bin\Debug\netcoreapp3.1\Pizza.exe
+C:\Users\Aleyna\source\repos\Pizza\Pizza\bin\Debug\netcoreapp3.1\Pizza.deps.json
+C:\Users\Aleyna\source\repos\Pizza\Pizza\bin\Debug\netcoreapp3.1\Pizza.runtimeconfig.json
+C:\Users\Aleyna\source\repos\Pizza\Pizza\bin\Debug\netcoreapp3.1\Pizza.runtimeconfig.dev.json
+C:\Users\Aleyna\source\repos\Pizza\Pizza\bin\Debug\netcoreapp3.1\Pizza.dll
+C:\Users\Aleyna\source\repos\Pizza\Pizza\bin\Debug\netcoreapp3.1\Pizza.pdb
+C:\Users\Aleyna\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.csprojAssemblyReference.cache
+C:\Users\Aleyna\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.Form1.resources
+C:\Users\Aleyna\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.Properties.Resources.resources
+C:\Users\Aleyna\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.csproj.GenerateResource.cache
+C:\Users\Aleyna\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.AssemblyInfoInputs.cache
+C:\Users\Aleyna\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.AssemblyInfo.cs
+C:\Users\Aleyna\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.dll
+C:\Users\Aleyna\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.pdb
+C:\Users\Aleyna\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\bin\Debug\netcoreapp3.1\KayitDefteri.exe
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\bin\Debug\netcoreapp3.1\KayitDefteri.deps.json
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\bin\Debug\netcoreapp3.1\KayitDefteri.runtimeconfig.json
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\bin\Debug\netcoreapp3.1\KayitDefteri.runtimeconfig.dev.json
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\bin\Debug\netcoreapp3.1\KayitDefteri.dll
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\bin\Debug\netcoreapp3.1\KayitDefteri.pdb
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\obj\Debug\netcoreapp3.1\KayitDefteri.csprojAssemblyReference.cache
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\obj\Debug\netcoreapp3.1\KayitDefteri.Form1.resources
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\obj\Debug\netcoreapp3.1\KayitDefteri.csproj.GenerateResource.cache
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\obj\Debug\netcoreapp3.1\KayitDefteri.AssemblyInfoInputs.cache
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\obj\Debug\netcoreapp3.1\KayitDefteri.AssemblyInfo.cs
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\obj\Debug\netcoreapp3.1\KayitDefteri.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\obj\Debug\netcoreapp3.1\KayitDefteri.dll
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\obj\Debug\netcoreapp3.1\KayitDefteri.pdb
+C:\Users\Aleyna\source\repos\KayitDefteri\KayitDefteri\obj\Debug\netcoreapp3.1\KayitDefteri.genruntimeconfig.cache
